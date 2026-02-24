@@ -1,0 +1,5 @@
+openai-agents==0.2.2
+python-dotenv
+langchain-openai==0.2.1
+pydantic
+colorama
